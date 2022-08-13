@@ -21,4 +21,4 @@ public class Program
 {
     // Simple sum can use a lambda expression
     public static int Sum(int a, int b) => a + b;
-};
+}
