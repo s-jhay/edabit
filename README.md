@@ -1,2 +1,3 @@
 # edabit
-Solutions for challenges on edabit.com
+
+Solutions for challenges on [edabit.com](https://edabit.com).
