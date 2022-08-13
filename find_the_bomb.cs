@@ -23,12 +23,12 @@ public class Program
 
 		// Use .ToLower() and .Contains methods to find the target substring.
 		if (sus_string.ToLower().Contains("bomb"))
-        {
+        	{
 			returnString = "Duck!!!";
 
 		}
 		else
-        {
+        	{
 			returnString = "There is no bomb, relax.";
 
 		}
